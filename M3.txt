@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/465.0.0.60.83;FBBV/452016700;FBDM/{density=3.0,width=1080,height=1920};FBLC/th_Qaau_TH;FBRV/452016700;FBCR/Etisalat;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/F5121;FBSV/7;FBCA/arm64-v8a:;]
+Dalvik/2.1.0 (Linux; U; Android 11; V2044 Build/RKQ1.584907.551) [FBAN/FB4A;FBAV/427.0.0.31.63;FBBV/444411021;FBDM/{density=3.0,width=1080,height=2376};FBLC/gu_Qaau_IN;FBRV/444411021;FBCR/MTNL;FBMF/Vivo;FBBD/Vivo;FBPN/com.facebook.katana;FBDV/V2044;FBSV/11;FBCA/armeabi-v7a:armeabi;]
