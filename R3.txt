@@ -1,10 +1,1 @@
-Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36 (ca128b0e-42d0-4cc0-a755-8a04cc722e39)
-Mozilla/5.0 (Linux; Android 10; Q5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
-Mozilla/5.0 (Linux; Android 14; 23113RKC6G Build/UKQ1.230804.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.81 Mobile Safari/537
-Mozilla/5.0 (Linux; Android 14; TECNO KL4 Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.6668.81 Mobile Safari/537.36
-Mozilla/5.0 (X11; Linux armv8l) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Safari/537.36 HbbTV/1.6.1 ( DRM; Philips; 55OLED856/12; TPM211EA_R.101.001.004.252; ; _TV_MT9970_2022;) FVC/5.0 (Philips; com.tpv-tech.TPM211EA;) LaTivu_1.0.1_2022
-Mozilla/5.0 (Linux; 13; BL8000) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-Mozilla/5.0 (Linux; U; Android 14; zh-CN; 24053PY09C Build/UKQ1.240116.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/100.0.4896.58 Quark/7.2.1.631 Mobile Safari/537.36
-Mozilla/5.0 (Linux; Android 10; ALFA_8MRC Build/QP1A.190711.020) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.6668.100 Safari/537.36
-Mozilla/5.0 (Linux; U; Android 10; JNY-LX1 Build/HUAWEIJNY-L21; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.93 Mobile Safari/537.36 OPR/85.0.2254.73914
-Mozilla/5.0 (Linux; Android 8.1.0; Hisense F25 Build/O11019; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/129.0.6668.100 Mobile Safari/537.36
+Dalvik/2.1.0 (Linux; U; Android 11; V2044 Build/RKQ1.584907.551) [FBAN/FB4A;FBAV/427.0.0.31.63;FBBV/444411021;FBDM/{density=3.0,width=1080,height=2376};FBLC/gu_Qaau_IN;FBRV/444411021;FBCR/MTNL;FBMF/Vivo;FBBD/Vivo;FBPN/com.facebook.katana;FBDV/V2044;FBSV/11;FBCA/armeabi-v7a:armeabi;]
