@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/465.0.0.60.83;FBBV/452016700;FBDM/{density=3.0,width=1080,height=1920};FBLC/th_Qaau_TH;FBRV/452016700;FBCR/Etisalat;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.katana;FBDV/F5121;FBSV/7;FBCA/arm64-v8a:;]
+Dalvik/2.1.2 (Linux; U; Android 7; WKX Build/RP1A.991143.979) [FBAN/FB4A;FBAV/478.0.0.41.86;FBBV/454614319;FBDM/{density=2.6,width=1080,height=1920};FBLC/bn_BD;FBRV/454614319;FBCR/Teletalk;FBMF/Wiko;FBBD/Wiko;FBPN/com.facebook.katana;FBDV/WKX;FBSV/7;FBCA/arm64-v8a:;]
