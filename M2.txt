@@ -1,1 +1,1 @@
-Dalvik/2.1.0 (Linux; U; Android 12; CPH2351 Build/SP2A.644659.980) [FBAN/FB4A;FBAV/478.0.0.41.86;FBBV/454614319;FBDM/{density=2.8,width=1080,height=2412};FBLC/en_BM;FBRV/454614319;FBCR/T-Mobile;FBMF/Oppo;FBBD/Oppo;FBPN/com.facebook.katana;FBDV/CPH2351;FBSV/12;FBCA/armeabi-v7a:armeabi;]
+Dalvik/2.1.0 (Linux; U; Android 10; IN2025 Build/RQ3A.351551.877) [FBAN/FB4A;FBAV/427.0.0.31.63;FBBV/444411021;FBDM/{density=3.0,width=1440,height=3168};FBLC/en_Qaau_US;FBRV/444411021;FBCR/Telkomsel;FBMF/OnePlus;FBBD/OnePlus;FBPN/com.facebook.katana;FBDV/IN2025;FBSV/10;FBCA/arm64-v8a:null;]
